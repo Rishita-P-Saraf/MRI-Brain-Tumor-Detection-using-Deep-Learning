@@ -109,7 +109,7 @@ python main.py
 
 ## 🤝 Acknowledgments
 - MLDawn YouTube Channel – for the excellent step-by-step tutorial series on building a Brain Tumor Detector using PyTorch and MRI images.
-- Navoneel Chakrabarty on Kaggle – for the MRI Brain Tumor Detection dataset.
+- Navoneel Chakrabarty on Kaggle – for the MRI Brain Tumor Detection dataset. 
 
 ---
 

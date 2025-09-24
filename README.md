@@ -115,5 +115,3 @@ python main.py
 
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-Let me know if you’d like it tailored for Streamlit, Flask, or if you want to split this into multiple `.py` files for modularization.
